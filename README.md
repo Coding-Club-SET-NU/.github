@@ -1,10 +1,10 @@
 # .github
-# 🚀 Coding Club, SET NU
+# 🚀 Coding Club, SET-NU
 
 **School of Engineering & Technology, Nagaland University**  
 Kohima Campus, Meriema | HQ: Lumami
 
-Welcome to the official GitHub organization of **Coding Club, SET NU**.  
+Welcome to the official GitHub organization of **Coding Club, SET-NU**.  
 This organization represents the technical community of students working together to learn, build, and innovate through software development.
 
 ---
@@ -97,7 +97,7 @@ All disputes are resolved by the **Faculty Coordinator**.
 
 ## 📬 Contact
 Official Organization of  
-**Coding Club, SET NU**  
+**Coding Club, SET-NU**  
 School of Engineering & Technology, Nagaland University  
-
+✉️ codingclubsetnu@gmail.com
 Let’s learn, build, and grow together 🚀
