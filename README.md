@@ -100,4 +100,5 @@ Official Organization of
 **Coding Club, SET-NU**  
 School of Engineering & Technology, Nagaland University  
 ✉️ codingclubsetnu@gmail.com
+
 Let’s learn, build, and grow together 🚀
